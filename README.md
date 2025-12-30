@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
-<!--
-**killingmachines/killingmachines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Cut to the Chase! Logging Co.](https://files.catbox.moe/o56pfw.png)
 
-Here are some ideas to get you started:
+# "PERSONALITY OVERRIDE ACTIVATED. PLEASE WAIT."
+<sub> Usually sitting next to my partner (who also made all my ponies)
+  
+![](https://komarev.com/ghpvc/?username=killingmachines&color=ed1c24&style=flat-square&label=&label=&#160;ᓚᘏᗢ&#160;&#160;&abbreviated=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
